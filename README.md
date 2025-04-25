@@ -138,10 +138,7 @@ print(f"Predicted Salary: ${salary:.2f}")
 - Explore more advanced models like neural networks or ensemble methods
 
 ## Author
-Your Name
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Loryne Muthoni Mburu
 
 ## Acknowledgments
 - Data source: Kaggle
